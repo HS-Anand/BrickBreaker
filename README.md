@@ -18,12 +18,13 @@ A classic **Brick Breaker (Breakout) game** built using Python's `turtle` graphi
 ## 🗂 Project Structure
 
 brick-breaker/
-'''├── main.py'''
+├── main.py
 ├── ball.py
 ├── player.py
 ├── brick.py
 ├── scoreboard.py
 └── README.md
+
 
 main.py – game loop and event handling
 
