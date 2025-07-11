@@ -16,11 +16,9 @@ A classic **Brick Breaker (Breakout) game** built using Python's `turtle` graphi
 ---
 
 ## 🗂 Project Structure
-css
-Copy
-Edit
+
 brick-breaker/
-├── main.py
+'''├── main.py'''
 ├── ball.py
 ├── player.py
 ├── brick.py
